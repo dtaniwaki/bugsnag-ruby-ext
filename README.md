@@ -59,12 +59,12 @@ Copyright (c) 2015 Daisuke Taniwaki. See [LICENSE](LICENSE) for details.
 
 [gem-image]:   https://badge.fury.io/rb/bugsnag-ext.svg
 [gem-link]:    http://badge.fury.io/rb/bugsnag-ext
-[build-image]: https://secure.travis-ci.org/dtaniwaki/bugsnag-ext.png
-[build-link]:  http://travis-ci.org/dtaniwaki/bugsnag-ext
-[deps-image]:  https://gemnasium.com/dtaniwaki/bugsnag-ext.svg
-[deps-link]:   https://gemnasium.com/dtaniwaki/bugsnag-ext
-[cov-image]:   https://coveralls.io/repos/dtaniwaki/bugsnag-ext/badge.png
-[cov-link]:    https://coveralls.io/r/dtaniwaki/bugsnag-ext
-[gpa-image]:   https://codeclimate.com/github/dtaniwaki/bugsnag-ext.png
-[gpa-link]:    https://codeclimate.com/github/dtaniwaki/bugsnag-ext
+[build-image]: https://secure.travis-ci.org/dtaniwaki/bugsnag-ruby-ext.png
+[build-link]:  http://travis-ci.org/dtaniwaki/bugsnag-ruby-ext
+[deps-image]:  https://gemnasium.com/dtaniwaki/bugsnag-ruby-ext.svg
+[deps-link]:   https://gemnasium.com/dtaniwaki/bugsnag-ruby-ext
+[cov-image]:   https://coveralls.io/repos/dtaniwaki/bugsnag-ruby-ext/badge.png
+[cov-link]:    https://coveralls.io/r/dtaniwaki/bugsnag-ruby-ext
+[gpa-image]:   https://codeclimate.com/github/dtaniwaki/bugsnag-ruby-ext.png
+[gpa-link]:    https://codeclimate.com/github/dtaniwaki/bugsnag-ruby-ext
 
