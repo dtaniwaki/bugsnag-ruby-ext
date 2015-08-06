@@ -34,6 +34,17 @@ class SomeResqueJob
 end
 ```
 
+### `Bugsnag::Ext::Faraday`
+
+```ruby
+conn = Faraday.new(url: "https://github.com/") do |faraday|
+  faraday.use FaradayMiddleware::Bugsnag # Need to set before :raise_error
+  faraday.response :raise_error
+end
+
+conn.get("/foo")
+```
+
 ## Contributing
 
 1. Fork it
